@@ -1,0 +1,8 @@
+{
+  "name": "proposal-builder",
+  "description": "Imported from GitHub: KCDASH01/proposal-builder",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
